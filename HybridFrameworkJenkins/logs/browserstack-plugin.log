@@ -1,0 +1,12 @@
+15:05:57.039 [ApplicationImpl pooled thread 5128] INFO  c.b.l.BrowserStackRunExtension - testng
+15:05:57.039 [ApplicationImpl pooled thread 5128] INFO  com.browserstack.utils.Helpers - null
+15:05:57.040 [ApplicationImpl pooled thread 5128] INFO  com.browserstack.utils.Helpers - C:/Users/UdayKumar/.m2/repository/com/browserstack/browserstack-java-sdk/1.26.4/browserstack-java-sdk-1.26.4.jar
+15:05:57.040 [ApplicationImpl pooled thread 5128] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/UdayKumar/.m2/repository/com/browserstack/browserstack-java-sdk/1.26.4/browserstack-java-sdk-1.26.4.jar
+15:05:57.040 [ApplicationImpl pooled thread 5128] INFO  c.b.l.BrowserStackRunExtension - Adding Browserstack SDK javaagent argline
+15:05:57.041 [ApplicationImpl pooled thread 5128] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.6
+17:12:46.794 [ApplicationImpl pooled thread 5295] INFO  c.b.l.BrowserStackRunExtension - testng
+17:12:46.798 [ApplicationImpl pooled thread 5295] INFO  com.browserstack.utils.Helpers - null
+17:12:46.801 [ApplicationImpl pooled thread 5295] INFO  com.browserstack.utils.Helpers - C:/Users/UdayKumar/.m2/repository/com/browserstack/browserstack-java-sdk/1.26.4/browserstack-java-sdk-1.26.4.jar
+17:12:46.801 [ApplicationImpl pooled thread 5295] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/UdayKumar/.m2/repository/com/browserstack/browserstack-java-sdk/1.26.4/browserstack-java-sdk-1.26.4.jar
+17:12:46.801 [ApplicationImpl pooled thread 5295] INFO  c.b.l.BrowserStackRunExtension - Adding Browserstack SDK javaagent argline
+17:12:46.801 [ApplicationImpl pooled thread 5295] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.6
